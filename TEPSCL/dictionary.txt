@@ -1,0 +1,7 @@
+/spawn [entity_name] {entity_data}
+	/spawn sphere {x,y,z,radius}
+/undo
+/redo
+/tp
+/close
+/remove

@@ -1,0 +1,28 @@
+GAME_ENTITIES
+	POINT
+	SEGMENT
+	LINE
+	PLANE
+	CONE
+	SPHERE
+	CYLINDER
+	BOX
+	TRIANGLE
+	COPLANAR POLYGON
+	NON-COLPLANAR(CREW) POLYGON
+	POLYGONAL SEGMENT
+	CONVEX POLYHEDRON
+	NON-CONVEX POLYHEDRON
+-------------------------
+COLLISION_MATRIX_SIZE_FORMULA : 
+	n : number of entities
+	n(n+1)/2 : number of possible type of collisions
+--------------------------
+
+
+
+
+-------------------------------------
+TODO
+
+AABB_COLLISION
